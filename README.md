@@ -2,12 +2,12 @@
 
 #### 1.clone repository
 ```sh
-git clone git@github.com:danialsadri/project.git
+git clone git@github.com:danialsadri/Project.git
 ```
 
 #### 2.change directory
 ```sh
-cd project
+cd Project
 ```
 
 #### 3.setup virtualenv
